@@ -1,2 +1,1 @@
-# React-tags
-Text to Tags
+Minimum boilerplate of ReactJS with redux.
